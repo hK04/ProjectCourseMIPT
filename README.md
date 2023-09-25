@@ -17,5 +17,5 @@ Repository created in colaboration with [Masov. E](https://github.com/eMasov
 
 | Num           | What About         | 
 | ------------- |:------------------:|
-| [First work](https://github.com/hK04/LabWorksSecondSem/tree/main/Vacuum) | Vacuum: High and Low |
-| [Second work](https://github.com/hK04/LabWorksSecondSem/tree/main/Atmosphere%20gas%20Viscosity) | Air viscosity properties estimation |
+| [First work](https://github.com/hK04/LabWorksSecondSem/tree/main/Vacuum) | How to get vacuum and measure its properties with vacuum diodes |
+| [Second work](https://github.com/hK04/ProjectCourseMIPT/tree/main/Atmosphere%20gas%20Viscosity) | Air viscosity properties estimation |
