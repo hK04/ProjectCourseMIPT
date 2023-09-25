@@ -19,3 +19,4 @@ Repository created in colaboration with [Masov. E](https://github.com/eMasov)
 | ------------- |:------------------:|
 | [First work](https://github.com/hK04/ProjectCourseMIPT/tree/main/Vacuum) | How to get vacuum and measure its properties with vacuum diodes |
 | [Second work](https://github.com/hK04/ProjectCourseMIPT/tree/main/Atmosphere%20gas%20Viscosity) | Air viscosity properties estimation |
+| [Third work](https://github.com/hK04/ProjectCourseMIPT/tree/main/Gas%20Diffusion) | Gas Diffusive Properties |
